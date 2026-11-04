@@ -1,5 +1,5 @@
-### HELLO, Welcome to my GitHub
-
+### Welcome to my GitHub
+![github-header-image]
 
 I am a Support Engineer with experience supporting contact centre and customer experience platforms, including Amazon Connect, Verint, and Contact Lens.
 My work involves incident investigation, stakeholder engagement, root cause analysis, system / application support, and operational troubleshooting. Through these responsibilities, I have developed a strong interest in Business Analysis and Data Analytics, where I enjoy using data to identify trends, solve business problems, and drive process improvements.
