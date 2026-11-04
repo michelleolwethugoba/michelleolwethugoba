@@ -1,7 +1,7 @@
 ### Welcome to my GitHub
 ![github-header-image](https://github.com/michelleolwethugoba/michelleolwethugoba/blob/df8c84c0141797610831d69b9bd55f920b56ca0e/github-header-banner%20(2).png) 
 
-<p>💼 Support Engineer | Business Analysis Practitioner</p>
+<p>💼 Support Engineer | Turning Operational Data Into Business Insights</p>
 <p>📊 Learning AWS Services, SQL & Data Analytics</p>
 <p>🔍 Interested in Business Analysis, Systems Analysis & Technology Solutions</p>
 <p>☁️ AWS Certified Cloud Practitioner</p>
